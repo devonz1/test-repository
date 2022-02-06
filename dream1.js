@@ -1,1 +1,1 @@
-console.log "Love one";
+console.log "Love on";
